@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "common.h": "c",
+        "list.h": "c",
+        "bnkaccount.h": "c",
+        "*.tcc": "c",
+        "list": "c",
+        "stdio.h": "c",
+        "trans_list.h": "c",
+        "ctype.h": "c",
+        "account_list.h": "c",
+        "account_bst.h": "c"
+    }
+}
